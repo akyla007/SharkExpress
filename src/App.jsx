@@ -2,6 +2,7 @@ import "./App.scss";
 import Whey from "./assets/whey.png";
 import Creatina from "./assets/creatina.png"
 import Pretreino from "./assets/pretreino.png"
+import Amendoin from "./assets/pasta-amendoin.png"
 
 const produtos = [
   {
@@ -24,6 +25,13 @@ const produtos = [
     img: Pretreino,
     descricao:
       "Pré-treino é um suplemento alimentar formulado com ingredientes que ajudam a aumentar a energia, o foco e a resistência física durante o exercício. Ele é projetado para ser tomado antes do treino, a fim de melhorar o desempenho, maximizar os resultados e acelerar a recuperação.",
+  },
+  {
+    id:4,
+    titulo: "Pasta Amendoin",
+    img: Amendoin,
+    descricao:
+      "A pasta de amendoim é um alimento altamente nutritivo e popular entre aqueles que frequentam a academia. Ela é uma excelente fonte de proteína, gorduras saudáveis, fibras e vitaminas e minerais essenciais, como vitamina E, magnésio e potássio.",
   },
 ];
 
