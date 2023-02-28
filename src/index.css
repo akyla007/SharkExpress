@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+html,body{
+  height: 100vh;
+}
+
+html{
+  font-size: 62,5%;
+}
+
+:root{
+  --background: linear-gradient(0.5turn,#c31432,#240b36);
+  --white: #FFFFFF;
+  --gray: #787878;
+
+  font-family: 'Roboto', sans-serif;
+  --weigth-description: 100;
+  --weigth-normal: 300;
+  --weigth-bold: 700;
+  
+}
