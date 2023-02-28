@@ -28,7 +28,7 @@ const produtos = [
   },
   {
     id:4,
-    titulo: "Pasta Amendoin",
+    titulo: "Pasta Amendoim",
     img: Amendoin,
     descricao:
       "A pasta de amendoim é um alimento altamente nutritivo e popular entre aqueles que frequentam a academia. Ela é uma excelente fonte de proteína, gorduras saudáveis, fibras e vitaminas e minerais essenciais, como vitamina E, magnésio e potássio.",
